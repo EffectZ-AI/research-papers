@@ -1,0 +1,3 @@
+# effectz-ai-papers
+
+Our focus at `@effectz-ai` encompasses a range of research areas including `privacy-preserving AI`, `distributed systems`, `blockchain`, `5g`, `6g`, `federated learning`, `big data analytics`, `artificial intelligence`, `generative-ai`,`cybersecurity`, `functional programming` and `Internet of Things (IoT)` etc. This repository is a comprehensive collection of our published research papers in various esteemed academic journals and conferences. Moreover, the commercial products we develop are deeply rooted in the innovative concepts and methodologies outlined in these research papers.
